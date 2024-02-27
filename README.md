@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wang-yuanlu
-- 👀 I’m interested in Target tracking
-- 🌱 I’m currently learning neural networks and deep learning
-- 💞️ I’m looking to collaborate on a project on target tracking through surveillance video
+- 👀 I’m interested in CGRA and TVM
+- 🌱 I’m currently learning docker
+- 💞️ I’m looking to collaborate on a project on CGRA and TVM
 - 📫 How to reach me: That's a secret.
 
 <!---
