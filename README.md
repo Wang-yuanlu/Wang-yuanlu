@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wang-yuanlu
 - 👀 I’m interested in CGRA and TVM
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning FHE
 - 💞️ I’m looking to collaborate on a project on CGRA and TVM
 - 📫 How to reach me: That's a secret.
 
