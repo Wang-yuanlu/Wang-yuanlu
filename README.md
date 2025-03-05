@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wang-yuanlu
-- 👀 I’m interested in CGRA and TVM
-- 🌱 I’m currently learning FHE
-- 💞️ I’m looking to collaborate on a project on CGRA and TVM
-- 📫 How to reach me: That's a secret.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on a project on 
+- 📫 How to reach me: 
 
 <!---
 Wang-yuanlu/Wang-yuanlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
